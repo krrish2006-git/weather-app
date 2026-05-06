@@ -26,7 +26,7 @@ The goal of this project is to practice API integration and build a real-world P
 - Debugging real-world errors
 
 ## 📸 Output
-![ Weather Output](output.png)
+![Weather Output](output.png)
 
 ## ▶️ HOW TO RUN
 
