@@ -1,7 +1,10 @@
 import requests
 city = input("Enter your city :")
-api_key = ("28f94e8d4ec2bc4bd6270ba7f6ebb971")
-url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
+from dotenv import load_dotenv
+import os
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
 response = requests.get(url)
 if response.status_code ==200:
  data = response.json()
