@@ -3,10 +3,19 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 ## 📌 OVERVIEW
-This is a Python-based weather application that fetches real-time weather data using an API and displays important details like temperature, humidity, and weather conditions.
+This is a Python-based weather application that fetches real-time weather data using an API and displays important details like temperature, humidity, and weather conditions in a clean user friendly way.
 
 ## 🎯 Objective
 The goal of this project is to practice API integration and build a real-world Python application that interacts with live data.
+
+## 🎯 Why I Built This
+
+I built this Weather Detection App for multiple learning and practical reasons:
+- 🌐 To understand how real-world applications fetch live data using APIs  
+- 🧠 To practice handling JSON data returned from external services  
+- 💻 To strengthen my Python fundamentals through a real-world project   
+- 🚀 To start building my portfolio as an aspiring Data Science and ML engineer  
+- 📚 To apply theoretical knowledge from Python learning into a practical project  
 
 ## 🚀 FEATURES
 - 🌍 Get real-time weather data
