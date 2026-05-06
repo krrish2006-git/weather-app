@@ -26,7 +26,6 @@ The goal of this project is to practice API integration and build a real-world P
 - Debugging real-world errors
 
 ## 📸 Output
-## 📸 Output
 ![Weather Output](https://raw.githubusercontent.com/krrish2006-git/weather-app/main/output.png)
 
 ## ▶️ HOW TO RUN
