@@ -5,6 +5,9 @@
 ## 📌 OVERVIEW
 This is a Python-based weather application that fetches real-time weather data using an API and displays important details like temperature, humidity, and weather conditions.
 
+## 🎯 Objective
+The goal of this project is to practice API integration and build a real-world Python application that interacts with live data.
+
 ## 🚀 FEATURES
 - 🌍 Get real-time weather data
 - 🔍 Search weather by city
@@ -15,6 +18,12 @@ This is a Python-based weather application that fetches real-time weather data u
 - Python
 - Requests Library
 - Weather API
+
+## 🧠 What I Learned
+- Working with APIs
+- Handling JSON data
+- Python input/output handling
+- Debugging real-world errors
 
 ## 📸 Output
 ![Output](screenshots/output.png)
@@ -29,6 +38,9 @@ This is a Python-based weather application that fetches real-time weather data u
 
 3. Run the program:
    python weather.py
+
+
+
 
 👨‍💻 AUTHOR
 Krrish Tiwari
