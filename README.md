@@ -38,6 +38,17 @@ The goal of this project is to practice API integration and build a real-world P
 
 3. Run the program:
    python weather.py
+   
+
+## 🚀 Future Improvements
+
+- 🌤️ Add a graphical user interface (GUI) using Tkinter or Streamlit for better user experience  
+- 📊 Display additional weather details like wind speed, pressure, and sunrise/sunset time  
+- 🗓️ Add 5-day weather forecast feature using extended API endpoints  
+- 🌍 Enable location-based automatic weather detection (GPS/IP-based)  
+- 📱 Convert the project into a web app for deployment  
+- 💾 Store previously searched cities for quick access history  
+- 🎨 Improve UI styling (if moved to web version) for better visualization  
 
 
 
